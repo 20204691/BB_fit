@@ -78,7 +78,7 @@ public class ThirdActivity extends AppCompatActivity {
 
         startBtn =  findViewById(R.id.startbutton);
         mtextview = findViewById(R.id.time);
-git
+
 
 
 
